@@ -8,7 +8,7 @@
 
 body {
     height:100vh;
-    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    background: linear-gradient(120deg, cadetblue, #ff2525da);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,5 +35,5 @@ body {
     font-size: 60px;
     color: #fff;
     background: rgba(5,5,5,0.9)
-    
 }
+
