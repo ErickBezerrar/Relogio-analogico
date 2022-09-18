@@ -37,3 +37,8 @@ body {
     background: rgba(5,5,5,0.9)
 }
 
+.relogio span {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
